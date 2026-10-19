@@ -1,161 +1,232 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,100:2563EB&text=LE%20VAN%20LUAN&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=FULLSTACK%20DEVELOPER%20%7C%20DATA%20%26%20SYSTEMS&descSize=15&descAlignY=62&animation=fadeIn" width="100%" alt="Le Van Luan - Developer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,55:0F172A,100:2563EB&text=LE%20VAN%20LUAN&fontColor=E2E8F0&fontSize=52&fontAlignY=38&desc=Fullstack%20%C2%B7%20Data%20Systems%20%C2%B7%20Infrastructure&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Le Van Luan" />
 
-### Building software. Engineering systems. Turning data into insights.
+<a href="https://github.com/vanluan20112003">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+university+data+platforms+end-to-end;From+database+schema+to+dashboards+leadership+trusts;Syncing+national+education+data+with+HEMIS;AI+analytics+that+cites+its+numbers;Linux+%C2%B7+Docker+%C2%B7+Wazuh+%C2%B7+Open+edX" alt="Typing intro" />
+</a>
 
 <p>
-  <a href="https://github.com/vanluan20112003">
-    <img src="https://img.shields.io/badge/GitHub-vanluan20112003-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-2563EB?style=for-the-badge" alt="Fullstack Development"/>
-  <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <a href="https://github.com/vanluan20112003"><img src="https://img.shields.io/badge/GitHub-vanluan20112003-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/Based_in-Ho_Chi_Minh_City-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Ho Chi Minh City"/>
+  <img src="https://img.shields.io/badge/Open_to-Collaboration-0F172A?style=for-the-badge" alt="Open to collaboration"/>
 </p>
 
 </div>
 
+```yaml
+whoami:
+  name: Le Van Luan
+  role: Fullstack Developer · Data & Systems
+  works_on:
+    - University data platform (HR, students, reporting)   # HUFLIT DataSystem
+    - National education data sync                         # HEMIS integration
+    - Online learning infrastructure                       # Open edX · H5P
+    - Endpoint monitoring & security                       # Wazuh
+  stack_of_choice: [Python, Django, PHP, Laravel, React, Next.js, PostgreSQL, MySQL, Docker, Linux]
+  believes: "A number on a dashboard is only as good as the pipeline behind it."
+```
+
 ---
 
-## 👨‍💻 About Me
+## ⚡ What I do
 
-Hi, I'm **Le Van Luan**, a developer interested in building reliable web applications, data-driven systems, and practical software solutions.
+I build systems **end to end**: model the data, write the APIs, ship the UI, then run it on Linux servers and keep it observable.
+Most of my work lives where **software meets institutional data**: messy source records, strict reporting rules, and leaders who need numbers they can trust.
 
-My interests go beyond writing application code. I enjoy understanding how systems work end to end — from database design and backend APIs to deployment, monitoring, and data analytics.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 💻 Focused on **Fullstack Development** and backend engineering.
-- 🏗️ Contributing to real-world software projects, including university data management and digital learning platforms.
-- 📊 Interested in data engineering, reporting systems, and AI-powered analytics.
-- 🐳 Exploring containerization, Linux infrastructure, system monitoring, and automation.
-- 🔐 Interested in application security, observability, and improving system reliability.
-- 🌱 Continuously learning and improving through hands-on projects.
+**🧱 Build**
+- Backend & REST APIs (Django, Laravel)
+- Admin dashboards & reporting UIs (React)
+- Data models, validation, integration contracts
 
-> My goal is to build software that is not only functional, but also maintainable, secure, and useful in real-world environments.
+</td>
+<td width="50%" valign="top">
+
+**📊 Data**
+- Staging → warehouse → reporting layers
+- Data-quality rules & anomaly checks
+- AI-assisted analysis grounded in real queries
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🐧 Run**
+- Linux server administration
+- Docker / Tutor deployments, Nginx
+- Video pipelines (FFmpeg → HLS)
+
+</td>
+<td width="50%" valign="top">
+
+**🛡️ Secure**
+- Wazuh endpoint monitoring
+- SSH activity & process tracing
+- Role-based access & privacy-aware reporting
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=py,php,ts,js,html,css,bash&perline=7" alt="Languages"/>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,php,html,css" alt="Programming Languages"/>
+**Frameworks**<br/>
+<img src="https://skillicons.dev/icons?i=django,fastapi,laravel,wordpress,react,nextjs,tailwind&perline=7" alt="Frameworks"/>
 
-### Frameworks & Platforms
+**Data & Infrastructure**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,docker,nginx,linux,ubuntu&perline=8" alt="Data and infrastructure"/>
 
-<img src="https://skillicons.dev/icons?i=django,laravel,react,docker,linux,git,github" alt="Frameworks and Platforms"/>
+**Tooling & Observability**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,prometheus,grafana,vscode&perline=6" alt="Tooling"/>
 
-### Databases & Infrastructure
+<br/>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,nginx,bash" alt="Databases and Infrastructure"/>
+<img src="https://img.shields.io/badge/Open_edX-Tutor-0F172A?style=flat-square" alt="Open edX"/>
+<img src="https://img.shields.io/badge/Wazuh-SIEM%2FEDR-0F172A?style=flat-square&logo=wazuh&logoColor=38BDF8" alt="Wazuh"/>
+<img src="https://img.shields.io/badge/FFmpeg-HLS-0F172A?style=flat-square&logo=ffmpeg&logoColor=22C55E" alt="FFmpeg"/>
+<img src="https://img.shields.io/badge/H5P-Interactive_content-0F172A?style=flat-square" alt="H5P"/>
+<img src="https://img.shields.io/badge/Claude_Code-AI_engineering-0F172A?style=flat-square&logo=anthropic&logoColor=F97316" alt="Claude Code"/>
 
 </div>
-
-**Areas of interest**
-
-- Backend development and REST API design
-- Database modeling, data validation, and data integration
-- ETL pipelines, reporting, and analytics
-- Docker-based development and deployment
-- Linux server administration and monitoring
-- AI-assisted data analysis and workflow automation
-
-*The technologies above represent my working interests and development areas. The depth of experience varies by technology.*
-
-## 🚀 Featured Projects
-
-### 01. HUFLIT DataSystem
-
-**University Data Management & Reporting Platform**
-
-A university-oriented system for managing personnel information, organizational data, and reporting workflows.
-
-- Designing data structures and workflows for personnel management.
-- Working with data validation, database relationships, and reporting requirements.
-- Exploring data warehouse patterns, data quality checks, and historical reporting.
-- Developing controlled data synchronization workflows for external reporting systems, including HEMIS integration.
-- Exploring AI-assisted analytics to help users understand statistics and organizational trends.
-
-**Focus:** Fullstack Development · Data Engineering · Reporting · System Integration
-
-### 02. MOOC VNU — Open edX
-
-**Digital Learning Platform**
-
-Contributing to the development and operation of an online learning platform built on Open edX within a university digital transformation environment.
-
-- Working with the Open edX ecosystem and Tutor-based deployment.
-- Exploring Python/Django application components and platform extensions.
-- Working with Docker-based services and application configuration.
-- Investigating integrations and custom components for online learning workflows.
-
-**Focus:** Python · Django · Open edX · Docker · Linux
-
-### 03. Security Monitoring & Log Analysis
-
-**Infrastructure Monitoring and Security Automation**
-
-Exploring monitoring workflows that collect system events, identify suspicious activity, and support security investigation.
-
-- Working with Wazuh-based endpoint monitoring.
-- Investigating process relationships, system events, and SSH activity.
-- Exploring log correlation and security alert triage.
-- Interested in integrating AI-assisted analysis into monitoring workflows.
-
-**Focus:** Wazuh · Linux · System Monitoring · Security Automation
-
-### 04. H5P Video Infrastructure
-
-**Video Processing & Learning Content Delivery**
-
-Working with the infrastructure considerations involved in delivering video-based learning content.
-
-- Exploring video transcoding and multi-resolution delivery.
-- Working with HLS-based streaming concepts.
-- Considering server capacity, concurrent processing, and storage constraints.
-- Evaluating approaches to improve video delivery efficiency.
-
-**Focus:** Linux · Apache · HLS · FFmpeg · Infrastructure Optimization
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Featured Work
+
+### 🏛️ HUFLIT DataSystem — University Data & Reporting Platform
+<img src="https://img.shields.io/badge/status-active_development-2563EB?style=flat-square" alt="status"/>
+
+A data platform for managing university personnel and organizational data, and turning it into reports leadership can act on.
+
+```mermaid
+flowchart LR
+    A[(HR & org<br/>source data)] --> B[Staging<br/>+ validation rules]
+    B --> C[(Reporting<br/>warehouse)]
+    C --> D[📊 KPI dashboards<br/>drill-down by unit]
+    C --> E[🤖 AI analyst<br/>read-only, cites numbers]
+    C --> F[🔄 HEMIS sync<br/>Ministry of Education]
+    B -. quality report .-> G[⚠️ Data-quality<br/>checks & anomalies]
+```
+
+- **Workforce dashboards**: headcount, qualifications, succession risk and productivity, with year-over-year trends and drill-down to each faculty.
+- **Data-quality layer**: rule-based checks (missing unit, invalid birth dates, contract gaps) surfaced to users instead of silently skewing reports.
+- **AI-assisted analysis**: an analyst that only reads the warehouse, writes findings with charts, and checks every number it states against the source data.
+- **Privacy by design**: small-group suppression for sensitive breakdowns and access scoped by role.
+- **HEMIS integration**: national education data sync using OAuth2 plus an XML digital-signature session, followed by JSON sync APIs.
+
+`Django` `PostgreSQL` `React` `Data Warehouse` `ETL` `LLM` `System Integration`
+
+---
+
+### 🎓 MOOC VNU — Open edX Learning Platform
+<img src="https://img.shields.io/badge/status-contributing-22C55E?style=flat-square" alt="status"/>
+
+Development and operations for a university MOOC platform built on Open edX.
+
+- Deploy and configure services with **Tutor** on Docker.
+- Extend Django-based platform components and integrations for learning workflows.
+
+`Python` `Django` `Open edX` `Tutor` `Docker` `Linux`
+
+---
+
+### 🛡️ Wazuh Endpoint Monitoring → EDR
+<img src="https://img.shields.io/badge/status-active_R%26D-F59E0B?style=flat-square" alt="status"/>
+
+Extending an existing Wazuh deployment toward EDR capabilities instead of buying a commercial product.
+
+- Log analysis and predictive risk alerts for monitored endpoints.
+- **SSH session visibility**: who logged in and what they did afterwards, traced through process relationships.
+- Separate monitoring pipelines for SSH activity and high-volume web traffic.
+
+`Wazuh` `Linux` `Log Correlation` `Security Automation`
+
+---
+
+### 🎬 H5P Video Infrastructure
+<img src="https://img.shields.io/badge/status-in_operation-22C55E?style=flat-square" alt="status"/>
+
+Delivering video-based interactive learning content on constrained servers.
+
+- Multi-resolution transcoding with **FFmpeg** and **HLS** adaptive streaming.
+- Balancing concurrent encoding jobs against CPU and storage limits.
+
+`WordPress` `H5P` `PHP` `FFmpeg` `HLS` `Linux`
+
+---
+
+### 🏡 Nhà Đất Luyện Phát — Real Estate Website
+<a href="https://github.com/vanluan20112003/NhaDatLuyenPhat"><img src="https://img.shields.io/badge/repo-NhaDatLuyenPhat-0F172A?style=flat-square&logo=github" alt="repo"/></a>
+
+A production website on a **$0 infrastructure budget**.
+
+- Next.js static export, deployed to GitHub Pages through GitHub Actions.
+- Supabase for Postgres, image storage and Edge Functions, with Row Level Security policies.
+
+`Next.js` `Supabase` `PostgreSQL` `GitHub Actions`
+
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vanluan20112003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vanluan20112003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&rank_icon=github" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanluan20112003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8" alt="Top languages"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanluan20112003&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-
-<img src="https://streak-stats.demolab.com?user=vanluan20112003&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=vanluan20112003&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8" alt="Contribution streak"/>
 
 </div>
 
-## 🧠 Currently Exploring
+---
 
-- **Data Engineering:** data pipelines, staging layers, data quality, and analytical data models.
-- **AI & Analytics:** combining structured queries, retrieval-augmented generation (RAG), and language models for evidence-based reporting.
-- **DevOps:** containerized deployments, reverse proxies, logging, monitoring, and performance testing.
-- **Software Quality:** API testing, end-to-end testing, maintainable architecture, and secure development practices.
+## 🧭 Engineering Principles
 
-## 🎯 My Development Philosophy
+```diff
++ Understand the domain before writing the schema.
++ Make data trustworthy: validate, trace, and show your sources.
++ Design for the next maintainer: clear boundaries, explicit contracts.
++ Measure, don't guess: test assumptions and monitor what you ship.
+- Ship a dashboard nobody can explain.
+```
 
-- **Understand the problem first.** Good software starts with clear requirements and a solid understanding of the domain.
-- **Design for maintainability.** Prefer clear boundaries, reusable components, and explicit data contracts.
-- **Make data trustworthy.** Validation, consistency, and traceability matter as much as the interface.
-- **Build and verify.** Test assumptions, measure performance, and improve systems based on evidence.
-- **Keep learning.** Treat every project as an opportunity to understand the engineering behind the code.
+## 🔭 Currently Leveling Up
 
-## 🤝 Connect With Me
+| Area | Focus |
+|---|---|
+| **Data Engineering** | Staging layers, slowly changing dimensions, analytical models |
+| **AI & Analytics** | Text-to-SQL, RAG, evidence-based reporting with LLMs |
+| **DevOps** | Container orchestration, reverse proxies, centralized logging |
+| **Quality** | API & end-to-end testing, secure development practices |
 
-I'm interested in connecting with developers, engineers, and teams working on web development, data platforms, digital transformation, and infrastructure.
+---
 
 <div align="center">
 
-<a href="https://github.com/vanluan20112003">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
-</a>
+### 🤝 Let's build something reliable
 
-<br/><br/>
+Interested in **data platforms**, **digital transformation in education**, and **infrastructure**? Let's connect.
 
-*Building practical solutions, one system at a time.*
+<a href="https://github.com/vanluan20112003"><img src="https://img.shields.io/badge/Follow_on_GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/></a>
+<!-- Add more contact badges when ready, e.g.:
+<a href="https://www.linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+-->
+
+<img src="https://komarev.com/ghpvc/?username=vanluan20112003&style=flat-square&color=2563EB&label=profile+views" alt="Profile views"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2563EB,55:0F172A,100:020617&section=footer" width="100%" alt="footer"/>
 
 </div>
