@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,50:0F172A,100:2563EB&text=LE%20VAN%20LUAN&fontColor=E2E8F0&fontSize=56&fontAlignY=36&desc=%3C%2F%3E%20Fullstack%20Developer&descSize=18&descAlignY=56&animation=twinkling" width="100%" alt="Le Van Luan" />
+<img src="./assets/header.svg" width="100%" alt="Le Van Luan" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=640&lines=Hello+World!+I'm+Luan+%F0%9F%91%8B;Fullstack+Developer;Data+%C2%B7+Systems+%C2%B7+Infrastructure;Turning+ideas+into+working+software" alt="Typing intro" />
 
@@ -99,6 +99,6 @@ Real estate website.
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1500&color=64748B&center=true&vCenter=true&width=520&lines=%3E+Thanks+for+visiting.+Let's+build+something+great!" alt="Thanks" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,50:0F172A,100:020617&section=footer" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 </div>

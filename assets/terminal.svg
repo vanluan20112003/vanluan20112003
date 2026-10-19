@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="340" viewBox="0 0 860 340" role="img" aria-label="Terminal intro: Le Van Luan, Fullstack Developer">
+<defs>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="0.5" stop-color="#6366F1"/><stop offset="1" stop-color="#22C55E"/>
+<animateTransform attributeName="gradientTransform" type="rotate" values="0 .5 .5;360 .5 .5" dur="8s" repeatCount="indefinite"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#1E293B" stroke-width="0.6"/></pattern>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset="0.5" stop-color="#38BDF8" stop-opacity="0.08"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></linearGradient>
+<clipPath id="c0"><rect x="28" y="72" height="28" width="0"><animate attributeName="width" values="0;116;184" keyTimes="0;0.01;1" begin="0.60s" dur="0.61s" fill="freeze"/></rect></clipPath><clipPath id="c1"><rect x="28" y="102" height="28" width="0"><animate attributeName="width" from="0" to="512" begin="1.56s" dur="0.35s" fill="freeze"/></rect></clipPath><clipPath id="c2"><rect x="28" y="132" height="28" width="0"><animate attributeName="width" values="0;116;271" keyTimes="0;0.01;1" begin="2.01s" dur="1.15s" fill="freeze"/></rect></clipPath><clipPath id="c3"><rect x="28" y="162" height="28" width="0"><animate attributeName="width" from="0" to="589" begin="3.51s" dur="0.35s" fill="freeze"/></rect></clipPath><clipPath id="c4"><rect x="28" y="192" height="28" width="0"><animate attributeName="width" values="0;116;261" keyTimes="0;0.01;1" begin="3.96s" dur="1.09s" fill="freeze"/></rect></clipPath><clipPath id="c5"><rect x="28" y="222" height="28" width="0"><animate attributeName="width" from="0" to="425" begin="5.40s" dur="0.35s" fill="freeze"/></rect></clipPath><clipPath id="c6"><rect x="28" y="252" height="28" width="0"><animate attributeName="width" from="0" to="377" begin="5.85s" dur="0.35s" fill="freeze"/></rect></clipPath><clipPath id="c7"><rect x="28" y="282" height="28" width="0"><animate attributeName="width" from="0" to="386" begin="6.30s" dur="0.35s" fill="freeze"/></rect></clipPath>
+</defs>
+<rect x="1.5" y="1.5" width="857" height="337" rx="14" fill="#020617" stroke="url(#bd)" stroke-width="2"/>
+<rect x="3" y="40" width="854" height="297" fill="url(#grid)" opacity="0.6"/>
+<rect x="3" y="3" width="854" height="36" rx="12" fill="#0F172A"/>
+<circle cx="26" cy="21" r="6" fill="#EF4444"/><circle cx="46" cy="21" r="6" fill="#F59E0B"/><circle cx="66" cy="21" r="6" fill="#22C55E"/>
+<text x="430.0" y="26" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="13" fill="#64748B">luan@dev — zsh — 860×340</text>
+<rect x="3" y="40" width="854" height="60" fill="url(#scan)"><animate attributeName="y" values="40;280;40" dur="6s" repeatCount="indefinite"/></rect>
+<g font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="16" xml:space="preserve">
+<text x="32" y="92" clip-path="url(#c0)"><tspan fill="#22C55E">luan@dev</tspan><tspan fill="#64748B">:</tspan><tspan fill="#38BDF8">~</tspan><tspan fill="#64748B">$ </tspan><tspan fill="#F8FAFC">whoami</tspan></text>
+<text x="32" y="122" clip-path="url(#c1)"><tspan fill="#E2E8F0">Le Van Luan · Fullstack Developer · Ho Chi Minh City</tspan></text>
+<text x="32" y="152" clip-path="url(#c2)"><tspan fill="#22C55E">luan@dev</tspan><tspan fill="#64748B">:</tspan><tspan fill="#38BDF8">~</tspan><tspan fill="#64748B">$ </tspan><tspan fill="#F8FAFC">cat ./focus.txt</tspan></text>
+<text x="32" y="182" clip-path="url(#c3)"><tspan fill="#38BDF8">web applications  ·  data platforms  ·  linux infrastructure</tspan></text>
+<text x="32" y="212" clip-path="url(#c4)"><tspan fill="#22C55E">luan@dev</tspan><tspan fill="#64748B">:</tspan><tspan fill="#38BDF8">~</tspan><tspan fill="#64748B">$ </tspan><tspan fill="#F8FAFC">./status --now</tspan></text>
+<text x="32" y="242" clip-path="url(#c5)"><tspan fill="#64748B">[ </tspan><tspan fill="#22C55E">OK</tspan><tspan fill="#64748B"> ] </tspan><tspan fill="#CBD5E1">building digital tools for education</tspan></text>
+<text x="32" y="272" clip-path="url(#c6)"><tspan fill="#64748B">[ </tspan><tspan fill="#22C55E">OK</tspan><tspan fill="#64748B"> ] </tspan><tspan fill="#CBD5E1">shipping, monitoring, improving</tspan></text>
+<text x="32" y="302" clip-path="url(#c7)"><tspan fill="#64748B">[ </tspan><tspan fill="#22C55E">OK</tspan><tspan fill="#64748B"> ] </tspan><tspan fill="#CBD5E1">learning something new every day</tspan></text>
+<text x="32" y="332" opacity="0"><tspan fill="#22C55E">luan@dev</tspan><tspan fill="#64748B">:</tspan><tspan fill="#38BDF8">~</tspan><tspan fill="#64748B">$ </tspan><set attributeName="opacity" to="1" begin="6.75s" fill="freeze"/></text>
+<rect x="148" y="317" width="10" height="19" fill="#38BDF8" opacity="0"><set attributeName="opacity" to="1" begin="6.75s" fill="freeze"/><animate attributeName="fill-opacity" values="1;0;1" dur="1s" begin="6.75s" repeatCount="indefinite"/></rect>
+</g>
+</svg>
