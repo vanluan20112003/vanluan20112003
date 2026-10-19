@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Le Van Luan - playing code, one note at a time" />
+<img src="./assets/vintage-header.svg" width="100%" alt="Le Van Luan - playing code, one note at a time" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=3600&pause=1400&color=7A6248&center=true&vCenter=true&width=600&lines=hi%2C+i'm+luan.;a+developer+from+saigon.;i+write+code+the+way+old+songs+are+played%3A;slowly%2C+carefully%2C+with+feeling." alt="intro" />
 
@@ -11,15 +11,15 @@
 
 </div>
 
-<img src="./assets/wave.svg" width="100%" alt="" />
+<img src="./assets/vintage-wave.svg" width="100%" alt="" />
 
 ### — now playing
 
 <div align="center">
-<img src="./assets/player.svg" width="92%" alt="Now playing: lofi beats to code to" />
+<img src="./assets/vintage-player.svg" width="92%" alt="Now playing: lofi beats to code to" />
 </div>
 
-<img src="./assets/wave.svg" width="100%" alt="" />
+<img src="./assets/vintage-wave.svg" width="100%" alt="" />
 
 ### — liner notes
 
@@ -35,7 +35,7 @@ const luan = {
 };
 ```
 
-<img src="./assets/wave.svg" width="100%" alt="" />
+<img src="./assets/vintage-wave.svg" width="100%" alt="" />
 
 ### — side A · tracklist
 
@@ -46,7 +46,7 @@ const luan = {
 | 03 | **Infrastructure & Security** | quiet servers, calm nights |
 | 04 | **[Nhà Đất Luyện Phát](https://github.com/vanluan20112003/NhaDatLuyenPhat)** | a small website on a $0 budget |
 
-<img src="./assets/wave.svg" width="100%" alt="" />
+<img src="./assets/vintage-wave.svg" width="100%" alt="" />
 
 ### — instruments
 
@@ -54,7 +54,7 @@ const luan = {
 <img src="https://skillicons.dev/icons?i=py,php,ts,django,laravel,react,nextjs,postgres,mysql,docker,linux,git&perline=12" alt="instruments"/>
 </div>
 
-<img src="./assets/wave.svg" width="100%" alt="" />
+<img src="./assets/vintage-wave.svg" width="100%" alt="" />
 
 ### — listening history
 
@@ -65,7 +65,7 @@ const luan = {
 
 </div>
 
-<img src="./assets/wave.svg" width="100%" alt="" />
+<img src="./assets/vintage-wave.svg" width="100%" alt="" />
 
 <div align="center">
 
