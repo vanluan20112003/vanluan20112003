@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Le Van Luan - playing code like music" />
+<img src="./assets/header.svg" width="100%" alt="Le Van Luan - playing code, one note at a time" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3200&pause=1100&color=F9A8D4&center=true&vCenter=true&width=600&lines=hi%2C+i'm+luan+%F0%9F%8E%A7;fullstack+developer+%C2%B7+saigon;writing+code+like+playing+music;slow+tempo%2C+clean+code%2C+calm+mind" alt="intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=3600&pause=1400&color=7A6248&center=true&vCenter=true&width=600&lines=hi%2C+i'm+luan.;a+developer+from+saigon.;i+write+code+the+way+old+songs+are+played%3A;slowly%2C+carefully%2C+with+feeling." alt="intro" />
 
-<img src="https://img.shields.io/badge/mood-chill-F9A8D4?style=flat-square&labelColor=1E1B2E" alt="mood"/>
-<img src="https://img.shields.io/badge/genre-fullstack-C4B5FD?style=flat-square&labelColor=1E1B2E" alt="genre"/>
-<img src="https://img.shields.io/badge/tempo-72_bpm-FDBA74?style=flat-square&labelColor=1E1B2E" alt="tempo"/>
-<img src="https://komarev.com/ghpvc/?username=vanluan20112003&style=flat-square&color=F472B6&label=listeners" alt="listeners"/>
+<img src="https://img.shields.io/badge/mood-mellow-A08463?style=flat-square&labelColor=4A3B2C" alt="mood"/>
+<img src="https://img.shields.io/badge/genre-fullstack-8A9A5B?style=flat-square&labelColor=4A3B2C" alt="genre"/>
+<img src="https://img.shields.io/badge/side-A-C2A878?style=flat-square&labelColor=4A3B2C" alt="side"/>
+<img src="https://komarev.com/ghpvc/?username=vanluan20112003&style=flat-square&color=A08463&label=listeners" alt="listeners"/>
 
 </div>
 
 <img src="./assets/wave.svg" width="100%" alt="" />
 
-### 🎧 now playing
+### — now playing
 
 <div align="center">
 <img src="./assets/player.svg" width="92%" alt="Now playing: lofi beats to code to" />
@@ -21,33 +21,34 @@
 
 <img src="./assets/wave.svg" width="100%" alt="" />
 
-### 🎹 track 00 — intro
+### — liner notes
+
+> *Some people keep a diary. I keep a commit history.*
+> *I like quiet servers, honest data, and code that still makes sense a year later.*
 
 ```js
-// put on your headphones, this one's slow
 const luan = {
   plays:  "code",
   genre:  ["web apps", "data platforms", "linux servers"],
   tempo:  "slow & steady",
-  mood:   "chill",
   mantra: "every bug is just a note out of tune",
 };
 ```
 
 <img src="./assets/wave.svg" width="100%" alt="" />
 
-### 💿 tracklist
+### — side A · tracklist
 
-| | # | track | vibe | |
-|:-:|:-:|---|---|:-:|
-| ▶ | 01 | **University Data Platform** | data, reports & the stories numbers tell | `🟣 playing` |
-| ▶ | 02 | **E-Learning Platforms** | online classes, interactive lessons | `🟣 playing` |
-| ▶ | 03 | **Infrastructure & Security** | quiet servers, calm nights | `🟠 on repeat` |
-| ▶ | 04 | **[Nhà Đất Luyện Phát](https://github.com/vanluan20112003/NhaDatLuyenPhat)** | a website on a $0 budget | `🟢 released` |
+| no. | title | notes |
+|:-:|---|---|
+| 01 | **University Data Platform** | data, reports, and the stories numbers tell |
+| 02 | **E-Learning Platforms** | online classes and interactive lessons |
+| 03 | **Infrastructure & Security** | quiet servers, calm nights |
+| 04 | **[Nhà Đất Luyện Phát](https://github.com/vanluan20112003/NhaDatLuyenPhat)** | a small website on a $0 budget |
 
 <img src="./assets/wave.svg" width="100%" alt="" />
 
-### 🎸 instruments
+### — instruments
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,php,ts,django,laravel,react,nextjs,postgres,mysql,docker,linux,git&perline=12" alt="instruments"/>
@@ -55,12 +56,12 @@ const luan = {
 
 <img src="./assets/wave.svg" width="100%" alt="" />
 
-### 📻 listening stats
+### — listening history
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vanluan20112003&show_icons=true&hide_border=true&bg_color=1E1B2E&title_color=F9A8D4&icon_color=C4B5FD&text_color=E9D5FF&ring_color=F472B6" alt="stats"/>
-<img height="165" src="https://streak-stats.demolab.com?user=vanluan20112003&hide_border=true&background=1E1B2E&ring=F9A8D4&fire=FDBA74&currStreakLabel=F9A8D4&currStreakNum=FFFFFF&sideNums=E9D5FF&sideLabels=C4B5FD&dates=A78BFA&stroke=3B3355" alt="streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vanluan20112003&show_icons=true&hide_border=true&bg_color=EFE6D2&title_color=4A3B2C&icon_color=A08463&text_color=5C4A3A&ring_color=A08463" alt="stats"/>
+<img height="165" src="https://streak-stats.demolab.com?user=vanluan20112003&hide_border=true&background=EFE6D2&ring=A08463&fire=C98B5A&currStreakLabel=4A3B2C&currStreakNum=4A3B2C&sideNums=4A3B2C&sideLabels=7A6248&dates=A08463&stroke=C9B48E" alt="streak"/>
 
 </div>
 
@@ -68,8 +69,6 @@ const luan = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=2000&color=A78BFA&center=true&vCenter=true&width=500&lines=%E2%99%AA+thanks+for+tuning+in+%E2%99%AA;%E2%99%AA+see+you+in+the+next+commit+%E2%99%AA" alt="outro" />
-
-<a href="https://github.com/vanluan20112003"><img src="https://img.shields.io/badge/follow_the_playlist-1E1B2E?style=for-the-badge&logo=github&logoColor=F9A8D4" alt="follow"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=14&duration=4000&pause=2500&color=A08463&center=true&vCenter=true&width=480&lines=thanks+for+listening.;see+you+on+side+B." alt="outro" />
 
 </div>
